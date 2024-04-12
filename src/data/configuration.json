@@ -1,0 +1,9 @@
+{
+   "authentication": {
+      "baseUrl": "https://dummyjson.com",
+      "timeout": 20000,
+      "endpoints": {
+         "requestProducts": "/products"
+      }
+   }
+}

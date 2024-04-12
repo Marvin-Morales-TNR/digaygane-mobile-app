@@ -1,0 +1,10 @@
+{
+   "title": "Login",
+   "emailLabel": "Email",
+   "passwordLabel": "Password",
+   "submit": "Sign In",
+   "register": "Don't you have an account? {0}Become a member!",
+   "saveData": "Remember my account",
+   "required": "This field is required",
+   "badEmail": "Provide a valid email"
+}

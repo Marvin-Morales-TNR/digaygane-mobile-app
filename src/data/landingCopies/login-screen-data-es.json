@@ -1,0 +1,14 @@
+{
+   "title": "Iniciar sesión",
+   "emailLabel": "Correo electrónico",
+   "passwordLabel": "Contraseña",
+   "submit": "Iniciar sesión",
+   "register": "¿No tienes una cuenta? {0}¡Conviértete en miembro!",
+   "saveData": "Recordar mis datos",
+   "form": {
+      "validations": {
+         "required": "Este campo es requerido",
+         "badEmail": "Ingresa un email válido"
+      }
+   }
+}
